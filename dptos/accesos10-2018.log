@@ -1,0 +1,11 @@
+C:[25/10/2018 11:59:16.49][172.17.118.154][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[29/10/2018 11:26:42.09][172.17.126.22][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26225064' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/10/2018 11:27:09.44][172.17.126.22][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26225064' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 09:51:40.93][172.17.121.42][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26359378' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 10:45:55.00][172.17.124.232][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27733420' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 10:46:21.54][172.17.124.232][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27733420' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 11:11:57.81][172.17.124.232][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27733420' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 11:23:39.59][172.17.137.84][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25324641' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 11:27:43.29][172.17.137.84][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25324641' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 11:28:12.00][172.17.137.84][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25324641' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/10/2018 11:28:36.63][172.17.137.84][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25324641' and a.c_uni_ca=b.c_uni_ca [1][0] OK

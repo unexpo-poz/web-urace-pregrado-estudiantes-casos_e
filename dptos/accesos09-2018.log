@@ -1,0 +1,1 @@
+C:[17/09/2018 10:13:08.76][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='21248975' [0][0] OK

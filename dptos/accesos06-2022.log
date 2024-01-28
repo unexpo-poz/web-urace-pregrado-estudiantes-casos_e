@@ -1,0 +1,22 @@
+C:[02/06/2022 09:38:28.71][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='30498666' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[02/06/2022 10:01:28.30][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='13982103' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[02/06/2022 16:12:08.80][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25255555' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[02/06/2022 16:14:16.32][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25255555' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[03/06/2022 07:35:17.41][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='29906716' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[06/06/2022 18:59:16.87][172.16.4.144][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='13838980' [1][0] OK
+C:[08/06/2022 13:16:47.49][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='30842932' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[09/06/2022 09:02:53.12][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26623355' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[09/06/2022 12:07:24.70][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20806239' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[09/06/2022 12:12:33.56][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20806239' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[19/06/2022 10:09:45.78][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='29906849' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[20/06/2022 23:27:49.45][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20298085' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[22/06/2022 10:45:26.40][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26676310' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[22/06/2022 21:50:29.97][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26999740' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[22/06/2022 21:52:49.28][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26999740' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[23/06/2022 13:20:39.60][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='18886435' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[23/06/2022 13:21:48.52][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='18886435' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[24/06/2022 08:52:29.16][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='30530222' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[26/06/2022 18:42:58.35][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='30001600' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[26/06/2022 19:00:02.03][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='30001600' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[27/06/2022 10:27:58.81][172.16.4.192][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27958987' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[27/06/2022 17:27:56.18][172.16.4.144][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27644011' and a.c_uni_ca=b.c_uni_ca [1][0] OK

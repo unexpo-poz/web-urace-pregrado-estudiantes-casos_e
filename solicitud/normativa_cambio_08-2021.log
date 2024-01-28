@@ -1,0 +1,6 @@
+
+*:[31/08/2021 13:44:45.90][172.16.4.230] Inicia Transaccion: 18-27296039 - 
+*:[31/08/2021 13:44:45.90][172.16.4.230][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='18-27296039' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [1][0] OK
+*:[31/08/2021 13:44:45.90][172.16.4.230][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='3' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='18-27296039' AND status IN ('0','3','B','C'))  [0][0] OK
+*:[31/08/2021 13:44:45.90][172.16.4.230] Fin Transaccion: 18-27296039 - 
+

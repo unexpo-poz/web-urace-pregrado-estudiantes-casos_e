@@ -1,0 +1,38 @@
+C:[01/03/2016 11:59:13.79][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='8521412' [1][0] OK
+C:[01/03/2016 12:01:01.48][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25277474' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[01/03/2016 12:01:41.40][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25277474' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[01/03/2016 12:03:38.23][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='25277474' [0][0] OK
+C:[01/03/2016 12:04:46.62][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='25277474' [0][0] OK
+C:[01/03/2016 12:05:52.93][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='25277474' [0][0] OK
+C:[01/03/2016 12:47:06.18][172.16.4.40][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='jbriceno' [0][0] OK
+C:[01/03/2016 13:00:58.98][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='8521412' [1][0] OK
+C:[03/03/2016 10:13:41.03][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='25436913' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 10:52:44.52][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20804519' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 10:53:47.93][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20804519' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 10:56:20.12][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='29840869' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[04/03/2016 10:56:41.52][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20804519' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 10:57:47.07][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='29840869' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[04/03/2016 10:58:18.41][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20804519' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 10:58:49.48][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20804519' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 10:58:55.86][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20840869' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/03/2016 11:03:02.36][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20804519' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[08/03/2016 08:20:42.43][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 10:55:41.99][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 10:56:57.85][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 10:59:36.80][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 11:00:16.50][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 11:01:41.35][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 11:03:52.70][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23535881' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 11:04:53.32][172.16.4.139][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='10932655' and a.c_uni_ca=b.c_uni_ca [0][0] OK
+C:[08/03/2016 11:20:39.66][172.16.4.246][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='19703944' [0][0] OK
+C:[10/03/2016 10:20:38.13][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[14/03/2016 09:19:24.95][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='18451853' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[14/03/2016 10:38:00.37][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[15/03/2016 09:08:44.31][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[15/03/2016 10:13:34.20][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26649192' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[15/03/2016 10:14:04.23][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26649192' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[15/03/2016 10:14:32.81][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26649192' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/03/2016 11:07:13.83][172.16.4.234][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='19703944' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[30/03/2016 14:35:19.50][172.16.4.99][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='23535881' [1][0] OK
+C:[31/03/2016 08:55:51.88][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20106569' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[31/03/2016 14:24:42.51][172.16.4.234][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='19703944' and a.c_uni_ca=b.c_uni_ca [1][0] OK

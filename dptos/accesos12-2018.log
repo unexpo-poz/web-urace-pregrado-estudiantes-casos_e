@@ -1,0 +1,24 @@
+C:[04/12/2018 10:15:40.43][172.16.5.56][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26513236' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/12/2018 10:25:04.49][172.16.5.56][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='24402826' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[04/12/2018 10:25:35.97][172.16.5.56][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='24402826' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[05/12/2018 09:31:33.61][172.16.5.40][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='24039513' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[05/12/2018 13:06:44.61][172.16.5.40][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='7721749' [1][0] OK
+C:[06/12/2018 09:38:59.31][172.16.5.40][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27596607' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[06/12/2018 09:55:39.83][172.16.5.40][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='24039513' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[06/12/2018 09:55:56.17][172.16.5.40][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='24039513' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[06/12/2018 10:30:22.01][172.17.123.165][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='23503391' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[06/12/2018 11:27:54.57][172.17.137.64][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27733420' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:11:02.59][172.16.5.56][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27917664' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:25:05.13][172.17.141.166][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21248976' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:29:27.71][172.17.141.166][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21248976' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:30:15.43][172.17.141.166][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21248976' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:32:21.33][172.17.141.166][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21248976' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:42:44.80][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:43:40.30][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:44:22.49][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:45:36.56][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:46:30.77][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:47:22.38][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:49:06.93][172.17.141.166][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='24119972' [0][0] OK
+C:[10/12/2018 10:51:46.78][172.17.141.166][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21248976' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[10/12/2018 10:56:32.58][172.17.141.166][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='24119972' and a.c_uni_ca=b.c_uni_ca [1][0] OK

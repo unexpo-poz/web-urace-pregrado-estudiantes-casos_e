@@ -1,0 +1,39 @@
+
+*:[05/12/2018 09:32:06.30][172.16.5.40] Inicia Transaccion: 11-24039513 - 
+*:[05/12/2018 09:32:06.30][172.16.5.40][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='11-24039513' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[05/12/2018 09:32:06.30][172.16.5.40][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='5' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='11-24039513' AND status IN ('0','3','B','C'))  [0][0] OK
+*:[05/12/2018 09:32:06.30][172.16.5.40] Fin Transaccion: 11-24039513 - 
+
+C:[05/12/2018 09:32:06.30][172.16.5.40][230] SELECT c_uni_ca, carrera1, carrera FROM tblaca010 WHERE c_uni_ca <> '5'  [4][0] OK
+
+*:[05/12/2018 13:07:10.42][172.16.5.40] Inicia Transaccion: 2 - 
+*:[05/12/2018 13:07:10.42][172.16.5.40][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='2' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[05/12/2018 13:07:10.42][172.16.5.40][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='' AND pensum='' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='2' AND status IN ('0','3','B','C'))  [0][0] OK
+*:[05/12/2018 13:07:10.42][172.16.5.40] Fin Transaccion: 2 - 
+
+C:[05/12/2018 13:07:10.42][172.16.5.40][230] SELECT c_uni_ca, carrera1, carrera FROM tblaca010 WHERE c_uni_ca <> ''  [0][0] OK
+
+*:[06/12/2018 09:39:23.19][172.16.5.40] Inicia Transaccion: 18-27596607 - 
+*:[06/12/2018 09:39:23.19][172.16.5.40][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='18-27596607' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[06/12/2018 09:39:23.19][172.16.5.40][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='3' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='18-27596607' AND status IN ('0','3','B','C'))  [5][0] OK
+*:[06/12/2018 09:39:23.19][172.16.5.40] Fin Transaccion: 18-27596607 - 
+
+
+*:[06/12/2018 11:28:09.89][172.17.137.64] Inicia Transaccion: 17-27733420 - 
+*:[06/12/2018 11:28:09.89][172.17.137.64][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='17-27733420' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[06/12/2018 11:28:09.89][172.17.137.64][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='3' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='17-27733420' AND status IN ('0','3','B','C'))  [2][0] OK
+*:[06/12/2018 11:28:09.89][172.17.137.64] Fin Transaccion: 17-27733420 - 
+
+
+*:[10/12/2018 10:11:11.09][172.16.5.56] Inicia Transaccion: 18-27917664 - 
+*:[10/12/2018 10:11:11.09][172.16.5.56][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='18-27917664' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[10/12/2018 10:11:11.09][172.16.5.56][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='5' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='18-27917664' AND status IN ('0','3','B','C'))  [9][0] OK
+*:[10/12/2018 10:11:11.09][172.16.5.56] Fin Transaccion: 18-27917664 - 
+
+
+*:[10/12/2018 10:32:27.69][172.17.141.166] Inicia Transaccion: 11-21248976 - 
+*:[10/12/2018 10:32:27.69][172.17.141.166][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='11-21248976' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[10/12/2018 10:32:27.69][172.17.141.166][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='2' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='11-21248976' AND status IN ('0','3','B','C'))  [0][0] OK
+*:[10/12/2018 10:32:27.69][172.17.141.166] Fin Transaccion: 11-21248976 - 
+
+C:[10/12/2018 10:32:27.69][172.17.141.166][230] SELECT c_uni_ca, carrera1, carrera FROM tblaca010 WHERE c_uni_ca <> '2'  [4][0] OK

@@ -1,0 +1,7 @@
+
+*:[22/09/2017 11:00:34.62][172.16.4.254] Inicia Transaccion: 04-13336469 - 
+*:[22/09/2017 11:00:34.62][172.16.4.254][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='04-13336469' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[22/09/2017 11:00:34.62][172.16.4.254][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='2' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='04-13336469' AND status IN ('0','3','B','C'))  [0][0] OK
+*:[22/09/2017 11:00:34.62][172.16.4.254] Fin Transaccion: 04-13336469 - 
+
+C:[22/09/2017 11:00:34.62][172.16.4.254][230] SELECT c_uni_ca, carrera1, carrera FROM tblaca010 WHERE c_uni_ca <> '2'  [4][0] OK

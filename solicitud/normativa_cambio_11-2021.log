@@ -1,0 +1,18 @@
+
+*:[09/11/2021 12:39:31.39][172.16.4.230] Inicia Transaccion: 13-26359907 - 
+*:[09/11/2021 12:39:31.39][172.16.4.230][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='13-26359907' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [1][0] OK
+*:[09/11/2021 12:39:31.39][172.16.4.230][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='5' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='13-26359907' AND status IN ('0','3','B','C'))  [0][0] OK
+*:[09/11/2021 12:39:31.39][172.16.4.230] Fin Transaccion: 13-26359907 - 
+
+
+*:[11/11/2021 15:49:53.88][172.16.4.230] Inicia Transaccion: 21-28731936 - 
+*:[11/11/2021 15:49:53.88][172.16.4.230][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='21-28731936' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[11/11/2021 15:49:53.88][172.16.4.230][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='6' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='21-28731936' AND status IN ('0','3','B','C'))  [12][0] OK
+*:[11/11/2021 15:49:53.88][172.16.4.230] Fin Transaccion: 21-28731936 - 
+
+
+*:[30/11/2021 12:05:19.64][172.16.4.230] Inicia Transaccion: 08-20299237 - 
+*:[30/11/2021 12:05:19.64][172.16.4.230][163] SELECT solicitud, f_emision, estado FROM space_casos WHERE exp_e='08-20299237' AND @SUBSTRING(solicitud,0,2) ='08' AND @SUBSTRING(estado,0,1) NOT IN  ('3','7') ORDER BY 2  [0][0] OK
+*:[30/11/2021 12:05:19.64][172.16.4.230][194] SELECT a.c_asigna, b.asignatura FROM tblaca009 a, tblaca008 b WHERE semestre<'03' AND c_uni_ca='2' AND pensum='5' AND a.c_Asigna=b.c_asigna AND a.c_asigna NOT IN (SELECT c_asigna FROM dace004 WHERE exp_e='08-20299237' AND status IN ('0','3','B','C'))  [14][0] OK
+*:[30/11/2021 12:05:19.64][172.16.4.230] Fin Transaccion: 08-20299237 - 
+

@@ -1,0 +1,3 @@
+C:[22/09/2015 13:21:53.09][172.16.4.247][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26073713' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[28/09/2015 08:48:16.99][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[28/09/2015 08:49:15.39][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK

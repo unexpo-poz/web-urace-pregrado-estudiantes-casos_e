@@ -1,0 +1,35 @@
+C:[20/01/2016 12:56:09.93][172.16.4.99][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='23535881' [1][0] OK
+C:[20/01/2016 12:56:43.91][172.16.4.99][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='23535881' [1][0] OK
+C:[25/01/2016 13:39:29.98][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[26/01/2016 09:00:22.39][172.16.4.254][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='3700733' [1][0] OK
+C:[26/01/2016 09:14:28.82][172.16.4.247][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='19911291' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[26/01/2016 09:39:12.45][172.16.4.247][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26073165' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[26/01/2016 09:39:44.19][172.16.4.247][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26073165' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[27/01/2016 09:19:14.57][172.16.4.99][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='23535881' [1][0] OK
+C:[27/01/2016 09:21:35.90][172.16.4.99][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='23535881' [1][0] OK
+C:[28/01/2016 09:44:24.68][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='22588130' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[28/01/2016 09:44:52.56][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='22588130' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[28/01/2016 10:26:46.11][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='27574666' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 08:45:00.91][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 08:45:42.40][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:00:30.35][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:01:19.41][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:01:50.94][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:02:49.06][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:05:23.29][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:08:05.98][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:08:28.10][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='17999021' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:08:42.98][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21497697' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:09:11.61][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21497697' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:11:06.52][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21497697' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:14:12.88][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21497697' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:15:05.30][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21497697' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:16:09.08][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='21497697' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:16:45.05][172.16.1.181][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='12644463' [1][0] OK
+C:[29/01/2016 09:17:13.39][172.16.1.181][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='12644463' [1][0] OK
+C:[29/01/2016 09:18:03.62][172.16.1.181][26]  SELECT ci, departamento, nombre, apellido FROM tblaca007 WHERE ci='12644463' [1][0] OK
+C:[29/01/2016 09:35:28.79][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='19093841' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:39:40.92][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='20808341' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 09:41:52.77][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='19093841' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 10:22:14.17][172.16.4.254][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='22804281' and a.c_uni_ca=b.c_uni_ca [1][0] OK
+C:[29/01/2016 10:29:49.82][172.16.4.72][26] SELECT ci_e, exp_e, nombres, apellidos, lapso_in, carrera FROM DACE002 a, TBLACA010 b WHERE ci_e='26138946' and a.c_uni_ca=b.c_uni_ca [1][0] OK
