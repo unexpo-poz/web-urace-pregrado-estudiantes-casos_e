@@ -6558,3 +6558,9 @@ C:[24/02/2014 09:56:56.56][186.94.90.202][N_E] SELECT password, tipo_usuario FRO
 *:[22/12/2023 07:28:33.85][172.16.4.20][N_E] SELECT tipo_usuario, exp_e FROM USUARIOS WHERE userid='5870636' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00405 DBA IUN Invalid user name}
  {[MERANT][ODBC SQLBase driver][SQLBase]00405 DBA IUN Invalid user name}
 *:[22/12/2023 07:29:51.89][172.16.4.20][N_E] SELECT tipo_usuario, exp_e FROM USUARIOS WHERE userid='5870636' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00405 DBA IUN Invalid user name}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:04:27.32][172.16.4.20][N_E] SELECT tipo_usuario, exp_e FROM USUARIOS WHERE userid='33370350' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:07:38.45][172.16.4.20][N_E] SELECT tipo_usuario, exp_e FROM USUARIOS WHERE userid='33370350' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
